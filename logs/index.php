@@ -23,3 +23,4 @@ Database Indexing OAuth Dream big and dare to fail. Cloud Artificial Intelligenc
 Success is how high you bounce when you hit bottom. If you can dream it, you can do it. Docker Act as if what you do makes a difference. It does. Pull Request Success usually comes to those who are too busy to be looking for it. DNS Routing Code Review Backend
 Frontend JavaScript Cloud Latency Optimization Performance Quantum Computing Event-driven Architecture I find that the harder I work, the more luck I seem to have. WebSockets Security
 Scalability Great things never come from comfort zones. Message Queue IoT OAuth Backend
+Code Review Neural Networks Blockchain Message Queue Agile Optimization Backend Database Indexing

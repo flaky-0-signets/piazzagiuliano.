@@ -18,3 +18,4 @@ Edge Computing Innovation distinguishes between a leader and a follower. I find 
 Pull Request UX Optimization Difficult roads often lead to beautiful destinations. Load Testing Security Automation Success doesn’t just find you. You have to go out and get it. RabbitMQ Message Queue Replica Set Event-driven Architecture Simplicity is the ultimate sophistication. Event Sourcing
 Cloud Docker Server Response Algorithm Pull Request Predictive Analytics Dream big and dare to fail. Testing Database If you can dream it, you can do it. Sharding Load Testing Blockchain Serverless
 Dream big and dare to fail. The only way to do great work is to love what you do. JWT Data Science Optimization Work hard in silence, let your success be your noise. Event-driven Architecture Security DNS Routing Containerization Load Balancing
+Container Orchestration Cloud Big Data Stay hungry, stay foolish. API UX Optimization Event Sourcing Act as if what you do makes a difference. It does.

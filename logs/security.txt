@@ -36,3 +36,4 @@ Pull Request Container Orchestration DevOps Data Pipeline Zero Downtime Deployme
 Event-driven Architecture Pull Request Frontend Difficult roads often lead to beautiful destinations. Data Science DNS Routing Optimization The only way to do great work is to love what you do. DevOps If you can dream it, you can do it.
 Data Science Serverless Code Review WebSockets Event-driven Architecture Pull Request Big Data Version Control
 Cache Invalidation OAuth Innovation distinguishes between a leader and a follower. To be the best, you must be able to handle the worst. Automation API Gateway
+Containerization Database Logging Big Data Deployment Virtual Machines Container Orchestration Kafka

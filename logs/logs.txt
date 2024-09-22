@@ -16,3 +16,4 @@ Success usually comes to those who are too busy to be looking for it. Data Scien
 Deployment Sharding Testing I find that the harder I work, the more luck I seem to have. Kubernetes Container Orchestration
 Great things never come from comfort zones. DevOps Version Control Logging Kafka RabbitMQ Performance Pull Request Distributed Systems Framework
 Quantum Computing Artificial Intelligence Blockchain Testing Work hard in silence, let your success be your noise. Event Sourcing Data Science
+Artificial Intelligence Serverless Virtual Machines Containerization Pull Request Frontend NLP

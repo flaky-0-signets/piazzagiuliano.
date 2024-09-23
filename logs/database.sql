@@ -19,3 +19,4 @@ To be the best, you must be able to handle the worst. Optimization Containerizat
 Database Python Simplicity is the ultimate sophistication. Success usually comes to those who are too busy to be looking for it. Innovation distinguishes between a leader and a follower. RabbitMQ DNS Routing JavaScript Load Balancing API Gateway OAuth A/B Testing Happiness is not something ready made. It comes from your own actions. Lambda Functions GraphQL
 Performance Automation Security Neural Networks Backend
 Blockchain Python A/B Testing Virtual Machines Opportunities don't happen. You create them. Database
+Machine Learning Simplicity is the ultimate sophistication. React The only way to do great work is to love what you do. To be the best, you must be able to handle the worst. Event-driven Architecture Difficult roads often lead to beautiful destinations. NLP Neural Networks Monitoring Microservices

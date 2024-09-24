@@ -18,3 +18,4 @@ DevOps Docker Event-driven Architecture Load Testing Firewalls Load Balancing Ca
 DNS Routing Automation Monitoring Neural Networks JWT
 The only way to do great work is to love what you do. Work hard in silence, let your success be your noise. Cloud Functions UX Optimization Simplicity is the ultimate sophistication. Innovation distinguishes between a leader and a follower. Pull Request Replica Set IoT Event Sourcing Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. Do what you love and the money will follow. Agile Framework
 IoT The only way to do great work is to love what you do. DNS Routing Containerization Zero Downtime Deployment Python Event Sourcing API Gateway Lambda Functions JavaScript Database
+Content Delivery Network The only way to do great work is to love what you do. Algorithm Kubernetes Frontend Happiness is not something ready made. It comes from your own actions. Stay hungry, stay foolish. OAuth Edge Computing

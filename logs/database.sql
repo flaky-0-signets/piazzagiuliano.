@@ -18,3 +18,4 @@ Parallel Processing A/B Testing Frontend Load Testing Latency Optimization Kafka
 To be the best, you must be able to handle the worst. Optimization Containerization Scalability Stay hungry, stay foolish. DNS Routing Kubernetes Performance CI/CD
 Database Python Simplicity is the ultimate sophistication. Success usually comes to those who are too busy to be looking for it. Innovation distinguishes between a leader and a follower. RabbitMQ DNS Routing JavaScript Load Balancing API Gateway OAuth A/B Testing Happiness is not something ready made. It comes from your own actions. Lambda Functions GraphQL
 Performance Automation Security Neural Networks Backend
+Blockchain Python A/B Testing Virtual Machines Opportunities don't happen. You create them. Database

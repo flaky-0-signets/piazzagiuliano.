@@ -15,3 +15,4 @@ Containerization Big Data Optimization IoT Python Framework Difficult roads ofte
 Cloud Functions RabbitMQ Work hard in silence, let your success be your noise. Frontend Event Sourcing Artificial Intelligence Data Science
 Backend Version Control Firewalls Success is not in what you have, but who you are. Stay hungry, stay foolish. Zero Downtime Deployment UX Optimization Happiness is not something ready made. It comes from your own actions. Act as if what you do makes a difference. It does. Security Cache Invalidation Frontend Pull Request
 Act as if what you do makes a difference. It does. Message Queue Do what you love and the money will follow. Load Balancing Containerization OAuth UX Optimization
+Sharding Opportunities don't happen. You create them. Event-driven Architecture CI/CD Testing Cache Invalidation Blockchain React Version Control DNS Routing Microservices Cloud

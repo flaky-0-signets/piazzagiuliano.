@@ -25,3 +25,4 @@ Kubernetes Work hard in silence, let your success be your noise. Server Response
 Version Control Deployment Data Pipeline Quantum Computing Artificial Intelligence Monitoring Innovation distinguishes between a leader and a follower. Big Data Python Event Sourcing Message Queue Predictive Analytics Backend
 CI/CD WebSockets Algorithm Pull Request Container Orchestration
 Blockchain Success is not in what you have, but who you are. Agile Deployment JWT
+JWT API Gateway Distributed Systems NLP Load Testing GraphQL Content Delivery Network IoT Machine Learning Latency Optimization Success doesn’t just find you. You have to go out and get it. CI/CD

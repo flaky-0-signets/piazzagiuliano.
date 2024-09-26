@@ -21,3 +21,4 @@ Server Response CI/CD Algorithm Multi-threading API Content Delivery Network Con
 I find that the harder I work, the more luck I seem to have. Cloud Python Simplicity is the ultimate sophistication. Distributed Systems Quantum Computing If you can dream it, you can do it. Performance
 Data Pipeline Predictive Analytics Great things never come from comfort zones. Edge Computing Code Review Docker
 CI/CD API A/B Testing Pull Request Neural Networks Multi-threading Artificial Intelligence Cloud Server Response Do what you love and the money will follow.
+Latency Optimization Do what you love and the money will follow. Edge Computing Cloud Functions Sharding Simplicity is the ultimate sophistication. Parallel Processing Security Distributed Systems

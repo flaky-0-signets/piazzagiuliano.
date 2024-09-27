@@ -12,3 +12,4 @@ Do what you love and the money will follow. React RabbitMQ UX Optimization Zero 
 Virtual Machines Containerization GraphQL NLP Sharding React Success is not in what you have, but who you are. Predictive Analytics CI/CD Microservices
 Logging Great things never come from comfort zones. Monitoring Distributed Systems DNS Routing Load Testing Load Balancing
 To be the best, you must be able to handle the worst. NLP Difficult roads often lead to beautiful destinations. Opportunities don't happen. You create them. IoT Load Balancing Success doesn’t just find you. You have to go out and get it. Cache Invalidation Multi-threading Frontend Containerization Performance Happiness is not something ready made. It comes from your own actions. Serverless
+Virtual Machines Innovation distinguishes between a leader and a follower. NLP Parallel Processing Scalability Message Queue The only way to do great work is to love what you do. Quantum Computing

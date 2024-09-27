@@ -30,3 +30,4 @@ Data Pipeline Distributed Systems Content Delivery Network Docker Work hard in s
 Data Pipeline If you can dream it, you can do it. Success doesn’t just find you. You have to go out and get it. Scalability DNS Routing Success is how high you bounce when you hit bottom.
 Message Queue React Great things never come from comfort zones. Performance Act as if what you do makes a difference. It does. Testing If you can dream it, you can do it. Don't be afraid to give up the good to go for the great. Serverless
 Success is not in what you have, but who you are. Frontend Work hard in silence, let your success be your noise. If you can dream it, you can do it. The only way to do great work is to love what you do. Docker Data Pipeline Backend NLP Load Balancing Distributed Systems
+Monitoring Distributed Systems Opportunities don't happen. You create them. Predictive Analytics Performance Optimization Docker Version Control Code Review Microservices

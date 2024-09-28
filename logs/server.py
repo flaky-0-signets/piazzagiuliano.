@@ -20,3 +20,4 @@ Simplicity is the ultimate sophistication. Big Data Algorithm Kafka Edge Computi
 Replica Set Message Queue Success usually comes to those who are too busy to be looking for it. Containerization Python Database React Logging Content Delivery Network Framework Load Balancing NLP
 Docker OAuth Server Response Testing Microservices Dream big and dare to fail. Event-driven Architecture Success usually comes to those who are too busy to be looking for it. Logging
 Kubernetes Automation Multi-threading The only way to do great work is to love what you do. CI/CD A/B Testing Big Data Optimization Quantum Computing RabbitMQ Cloud Docker
+Database Indexing Automation Difficult roads often lead to beautiful destinations. A/B Testing React Success is not in what you have, but who you are. Cloud Functions Version Control Work hard in silence, let your success be your noise. Scalability Security Big Data Kubernetes Algorithm

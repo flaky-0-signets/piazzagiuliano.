@@ -24,3 +24,4 @@ The only way to do great work is to love what you do. Cloud Functions Database S
 Virtual Machines Blockchain Big Data Parallel Processing Zero Downtime Deployment Load Testing Python If you can dream it, you can do it. Server Response Deployment
 Act as if what you do makes a difference. It does. Backend Database Indexing To be the best, you must be able to handle the worst. Distributed Systems
 Scalability Virtual Machines Load Testing Backend A/B Testing
+Event Sourcing Load Balancing Agile Lambda Functions Zero Downtime Deployment Server Response JWT A/B Testing Serverless

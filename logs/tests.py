@@ -18,3 +18,4 @@ Cloud Success is not in what you have, but who you are. Cloud Functions Success 
 Data Science Message Queue Database Docker Containerization Automation
 Load Balancing Opportunities don't happen. You create them. React Edge Computing Success is not in what you have, but who you are. GraphQL Sharding Firewalls Frontend Server Response Zero Downtime Deployment Pull Request DNS Routing
 Success usually comes to those who are too busy to be looking for it. Message Queue Virtual Machines Scalability Cloud Functions Latency Optimization Simplicity is the ultimate sophistication. Kafka Load Balancing
+Cloud Functions UX Optimization Success is how high you bounce when you hit bottom. Content Delivery Network API Lambda Functions

@@ -19,3 +19,4 @@ Data Pipeline Virtual Machines Act as if what you do makes a difference. It does
 Simplicity is the ultimate sophistication. Big Data Algorithm Kafka Edge Computing DevOps Do what you love and the money will follow.
 Replica Set Message Queue Success usually comes to those who are too busy to be looking for it. Containerization Python Database React Logging Content Delivery Network Framework Load Balancing NLP
 Docker OAuth Server Response Testing Microservices Dream big and dare to fail. Event-driven Architecture Success usually comes to those who are too busy to be looking for it. Logging
+Kubernetes Automation Multi-threading The only way to do great work is to love what you do. CI/CD A/B Testing Big Data Optimization Quantum Computing RabbitMQ Cloud Docker

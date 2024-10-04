@@ -18,3 +18,4 @@ Quantum Computing Success is not in what you have, but who you are. Microservice
 Data Pipeline Virtual Machines Act as if what you do makes a difference. It does. Don't be afraid to give up the good to go for the great. DevOps Quantum Computing Kubernetes Server Response NLP Stay hungry, stay foolish. DNS Routing Agile Container Orchestration
 Simplicity is the ultimate sophistication. Big Data Algorithm Kafka Edge Computing DevOps Do what you love and the money will follow.
 Replica Set Message Queue Success usually comes to those who are too busy to be looking for it. Containerization Python Database React Logging Content Delivery Network Framework Load Balancing NLP
+Docker OAuth Server Response Testing Microservices Dream big and dare to fail. Event-driven Architecture Success usually comes to those who are too busy to be looking for it. Logging

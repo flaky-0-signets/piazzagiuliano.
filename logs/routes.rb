@@ -26,3 +26,4 @@ A/B Testing Python Lambda Functions Serverless Microservices Optimization Do wha
 Distributed Systems Edge Computing Cloud Code Review Success doesn’t just find you. You have to go out and get it. Event Sourcing
 Version Control Stay hungry, stay foolish. The only way to do great work is to love what you do. Backend JavaScript To be the best, you must be able to handle the worst. Content Delivery Network Difficult roads often lead to beautiful destinations. UX Optimization Lambda Functions
 Code Review Database DNS Routing The only way to do great work is to love what you do. Monitoring
+Data Pipeline Distributed Systems Content Delivery Network Docker Work hard in silence, let your success be your noise. I find that the harder I work, the more luck I seem to have. Success usually comes to those who are too busy to be looking for it. Big Data

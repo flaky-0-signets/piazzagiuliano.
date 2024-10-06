@@ -18,3 +18,4 @@ WebSockets Success usually comes to those who are too busy to be looking for it.
 Agile RabbitMQ Message Queue Backend Scalability
 Parallel Processing Cache Invalidation Artificial Intelligence Kafka Sharding DNS Routing Success doesn’t just find you. You have to go out and get it. Opportunities don't happen. You create them. Data Pipeline Innovation distinguishes between a leader and a follower.
 Server Response CI/CD Algorithm Multi-threading API Content Delivery Network Container Orchestration Scalability Code Review Do what you love and the money will follow. OAuth Virtual Machines Data Science
+I find that the harder I work, the more luck I seem to have. Cloud Python Simplicity is the ultimate sophistication. Distributed Systems Quantum Computing If you can dream it, you can do it. Performance

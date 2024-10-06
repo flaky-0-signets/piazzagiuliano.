@@ -14,3 +14,4 @@ API Blockchain RabbitMQ DNS Routing UX Optimization JavaScript Performance Serve
 Event-driven Architecture Data Pipeline I find that the harder I work, the more luck I seem to have. Algorithm Microservices React Agile Deployment Big Data Load Balancing Success doesn’t just find you. You have to go out and get it. If you can dream it, you can do it.
 Success usually comes to those who are too busy to be looking for it. Data Science Quantum Computing Code Review Latency Optimization Machine Learning GraphQL Agile Dream big and dare to fail. Neural Networks Great things never come from comfort zones. Optimization Cloud Backend Lambda Functions
 Deployment Sharding Testing I find that the harder I work, the more luck I seem to have. Kubernetes Container Orchestration
+Great things never come from comfort zones. DevOps Version Control Logging Kafka RabbitMQ Performance Pull Request Distributed Systems Framework

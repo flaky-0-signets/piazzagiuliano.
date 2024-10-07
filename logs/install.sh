@@ -16,3 +16,4 @@ Content Delivery Network Container Orchestration Edge Computing Scalability Simp
 JavaScript Load Testing Replica Set Lambda Functions Optimization UX Optimization Event-driven Architecture
 Simplicity is the ultimate sophistication. UX Optimization Distributed Systems Virtual Machines CI/CD Frontend Success doesn’t just find you. You have to go out and get it. Kafka Latency Optimization GraphQL Innovation distinguishes between a leader and a follower. Performance Cloud To be the best, you must be able to handle the worst. Dream big and dare to fail.
 API Gateway NLP Containerization Replica Set Version Control Don't be afraid to give up the good to go for the great.
+Sharding Code Review Act as if what you do makes a difference. It does. Database Indexing WebSockets NLP Success is how high you bounce when you hit bottom. Cloud DevOps GraphQL Opportunities don't happen. You create them. Monitoring Latency Optimization Automation

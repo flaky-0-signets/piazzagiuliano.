@@ -23,3 +23,4 @@ Docker Do what you love and the money will follow. Serverless The only way to do
 Microservices I find that the harder I work, the more luck I seem to have. Performance Happiness is not something ready made. It comes from your own actions. Database Indexing Frontend JavaScript Great things never come from comfort zones.
 Performance IoT Docker UX Optimization Deployment
 Testing Data Pipeline Do what you love and the money will follow. Success is how high you bounce when you hit bottom. CI/CD Multi-threading Artificial Intelligence Logging Optimization WebSockets Don't be afraid to give up the good to go for the great. Work hard in silence, let your success be your noise. Neural Networks Virtual Machines
+Quantum Computing Testing Great things never come from comfort zones. UX Optimization Monitoring NLP Serverless Event Sourcing Success usually comes to those who are too busy to be looking for it. Cloud Cache Invalidation

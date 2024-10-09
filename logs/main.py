@@ -25,3 +25,4 @@ DNS Routing Success is how high you bounce when you hit bottom. Great things nev
 Performance JavaScript Data Science Edge Computing Deployment Kubernetes
 Kafka API Gateway I find that the harder I work, the more luck I seem to have. RabbitMQ Framework Success is how high you bounce when you hit bottom. Dream big and dare to fail.
 Success is how high you bounce when you hit bottom. JavaScript IoT A/B Testing Distributed Systems Multi-threading Python RabbitMQ Monitoring Message Queue Do what you love and the money will follow. To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower. Version Control
+Success is not in what you have, but who you are. Virtual Machines UX Optimization Testing Pull Request Cloud Functions Act as if what you do makes a difference. It does. Code Review Performance Kafka Neural Networks Kubernetes Cloud

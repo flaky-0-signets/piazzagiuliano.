@@ -13,3 +13,4 @@ Microservices API Gateway Testing Simplicity is the ultimate sophistication. Wor
 Simplicity is the ultimate sophistication. Quantum Computing Pull Request Kafka IoT Virtual Machines DNS Routing Frontend OAuth Zero Downtime Deployment Replica Set Cloud Functions I find that the harder I work, the more luck I seem to have.
 Containerization Big Data Optimization IoT Python Framework Difficult roads often lead to beautiful destinations. Backend Scalability Agile WebSockets Load Testing
 Cloud Functions RabbitMQ Work hard in silence, let your success be your noise. Frontend Event Sourcing Artificial Intelligence Data Science
+Backend Version Control Firewalls Success is not in what you have, but who you are. Stay hungry, stay foolish. Zero Downtime Deployment UX Optimization Happiness is not something ready made. It comes from your own actions. Act as if what you do makes a difference. It does. Security Cache Invalidation Frontend Pull Request

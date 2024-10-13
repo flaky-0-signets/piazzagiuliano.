@@ -12,3 +12,4 @@ API Gateway Artificial Intelligence Edge Computing Docker UX Optimization Firewa
 Data Science Edge Computing Happiness is not something ready made. It comes from your own actions. Security WebSockets Don't be afraid to give up the good to go for the great. Sharding Serverless Load Testing Kubernetes
 Microservices Kubernetes Testing Data Science Logging Innovation distinguishes between a leader and a follower. Container Orchestration Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom.
 Quantum Computing Virtual Machines Great things never come from comfort zones. Optimization Scalability Testing Opportunities don't happen. You create them. Load Testing JWT Data Science
+Big Data NLP Frontend DNS Routing Docker Virtual Machines Python Work hard in silence, let your success be your noise. React Lambda Functions Artificial Intelligence Optimization Dream big and dare to fail.

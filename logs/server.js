@@ -11,3 +11,4 @@ UX Optimization Multi-threading WebSockets Content Delivery Network IoT Virtual 
 API Gateway Artificial Intelligence Edge Computing Docker UX Optimization Firewalls Dream big and dare to fail. Serverless Code Review Kafka The only way to do great work is to love what you do. I find that the harder I work, the more luck I seem to have.
 Data Science Edge Computing Happiness is not something ready made. It comes from your own actions. Security WebSockets Don't be afraid to give up the good to go for the great. Sharding Serverless Load Testing Kubernetes
 Microservices Kubernetes Testing Data Science Logging Innovation distinguishes between a leader and a follower. Container Orchestration Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom.
+Quantum Computing Virtual Machines Great things never come from comfort zones. Optimization Scalability Testing Opportunities don't happen. You create them. Load Testing JWT Data Science

@@ -16,3 +16,4 @@ Neural Networks Performance Testing Code Review Frontend If you can dream it, yo
 Don't be afraid to give up the good to go for the great. OAuth Scalability Agile Stay hungry, stay foolish.
 Cloud Success is not in what you have, but who you are. Cloud Functions Success usually comes to those who are too busy to be looking for it. GraphQL Version Control DevOps Performance IoT Virtual Machines
 Data Science Message Queue Database Docker Containerization Automation
+Load Balancing Opportunities don't happen. You create them. React Edge Computing Success is not in what you have, but who you are. GraphQL Sharding Firewalls Frontend Server Response Zero Downtime Deployment Pull Request DNS Routing

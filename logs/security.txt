@@ -32,3 +32,4 @@ I find that the harder I work, the more luck I seem to have. Artificial Intellig
 Sharding Quantum Computing React Scalability DevOps CI/CD Python To be the best, you must be able to handle the worst. Simplicity is the ultimate sophistication. Performance UX Optimization Automation Database Indexing Machine Learning
 DNS Routing Serverless Data Pipeline Database Python Testing Distributed Systems Latency Optimization Innovation distinguishes between a leader and a follower. Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication.
 Neural Networks Content Delivery Network The only way to do great work is to love what you do. To be the best, you must be able to handle the worst. Artificial Intelligence Event Sourcing
+Pull Request Container Orchestration DevOps Data Pipeline Zero Downtime Deployment Event Sourcing Kubernetes Python Success doesn’t just find you. You have to go out and get it.

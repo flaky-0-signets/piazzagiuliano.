@@ -23,3 +23,4 @@ Deployment Kubernetes Quantum Computing RabbitMQ API Gateway Don't be afraid to 
 Message Queue Work hard in silence, let your success be your noise. JWT I find that the harder I work, the more luck I seem to have. Kafka A/B Testing Firewalls API Gateway Success doesn’t just find you. You have to go out and get it. Parallel Processing
 DNS Routing Success is how high you bounce when you hit bottom. Great things never come from comfort zones. Zero Downtime Deployment Cache Invalidation Simplicity is the ultimate sophistication. NLP Blockchain Multi-threading Version Control Don't be afraid to give up the good to go for the great. Python DevOps Optimization Agile
 Performance JavaScript Data Science Edge Computing Deployment Kubernetes
+Kafka API Gateway I find that the harder I work, the more luck I seem to have. RabbitMQ Framework Success is how high you bounce when you hit bottom. Dream big and dare to fail.

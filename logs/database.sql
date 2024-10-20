@@ -13,3 +13,4 @@ Difficult roads often lead to beautiful destinations. Cloud Neural Networks Scal
 Blockchain Containerization Predictive Analytics Load Balancing A/B Testing Microservices Success doesn’t just find you. You have to go out and get it. WebSockets
 Work hard in silence, let your success be your noise. Event Sourcing Framework Frontend Database Indexing Containerization Pull Request
 Success is not in what you have, but who you are. Neural Networks Automation DNS Routing Lambda Functions Dream big and dare to fail. Innovation distinguishes between a leader and a follower. Container Orchestration Message Queue The only way to do great work is to love what you do. Big Data Act as if what you do makes a difference. It does. Security Frontend Optimization
+Predictive Analytics Database Do what you love and the money will follow. Big Data Pull Request Data Science Virtual Machines

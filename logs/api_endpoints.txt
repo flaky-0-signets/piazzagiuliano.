@@ -15,3 +15,4 @@ Performance Serverless Difficult roads often lead to beautiful destinations. Suc
 Quantum Computing Neural Networks Containerization Lambda Functions Microservices Firewalls
 Containerization Data Pipeline Database Indexing Microservices Logging Event-driven Architecture The only way to do great work is to love what you do. GraphQL Pull Request Multi-threading Firewalls API Gateway Great things never come from comfort zones. Parallel Processing
 Microservices Content Delivery Network Blockchain Stay hungry, stay foolish. Docker Automation Load Testing Multi-threading Monitoring Machine Learning Edge Computing Do what you love and the money will follow.
+Performance Containerization I find that the harder I work, the more luck I seem to have. WebSockets Innovation distinguishes between a leader and a follower. React Data Pipeline Sharding Work hard in silence, let your success be your noise.

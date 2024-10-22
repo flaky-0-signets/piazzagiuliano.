@@ -11,3 +11,4 @@ API Load Testing Work hard in silence, let your success be your noise. Cloud Eve
 Great things never come from comfort zones. Latency Optimization Framework Machine Learning Virtual Machines
 IoT Latency Optimization Docker Difficult roads often lead to beautiful destinations. Monitoring OAuth Code Review Big Data Backend Distributed Systems Database Indexing
 API Blockchain RabbitMQ DNS Routing UX Optimization JavaScript Performance Server Response Content Delivery Network Load Testing Event Sourcing Virtual Machines Success doesn’t just find you. You have to go out and get it.
+Event-driven Architecture Data Pipeline I find that the harder I work, the more luck I seem to have. Algorithm Microservices React Agile Deployment Big Data Load Balancing Success doesn’t just find you. You have to go out and get it. If you can dream it, you can do it.

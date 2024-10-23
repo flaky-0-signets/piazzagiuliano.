@@ -21,3 +21,4 @@ Zero Downtime Deployment Success is not in what you have, but who you are. Act a
 Do what you love and the money will follow. Optimization Performance Opportunities don't happen. You create them. Act as if what you do makes a difference. It does. Stay hungry, stay foolish. Event-driven Architecture API Gateway Blockchain Backend Logging Kubernetes Server Response Success usually comes to those who are too busy to be looking for it. Dream big and dare to fail.
 Testing Python Virtual Machines Dream big and dare to fail. The only way to do great work is to love what you do. Lambda Functions Agile
 Latency Optimization Replica Set CI/CD Deployment Automation
+Kubernetes Work hard in silence, let your success be your noise. Server Response Scalability Cache Invalidation Version Control Don't be afraid to give up the good to go for the great. Act as if what you do makes a difference. It does. Cloud Difficult roads often lead to beautiful destinations.

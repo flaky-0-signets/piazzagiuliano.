@@ -23,3 +23,4 @@ A/B Testing Content Delivery Network Artificial Intelligence Great things never 
 Artificial Intelligence Scalability Opportunities don't happen. You create them. Container Orchestration Kafka Security JWT Database Data Science Great things never come from comfort zones.
 Automation Docker Success is not in what you have, but who you are. Edge Computing Dream big and dare to fail. Cloud Functions Simplicity is the ultimate sophistication. API Gateway Work hard in silence, let your success be your noise. Agile Pull Request Load Balancing
 A/B Testing Python Lambda Functions Serverless Microservices Optimization Do what you love and the money will follow. Security Data Science Quantum Computing Neural Networks Act as if what you do makes a difference. It does. Cloud
+Distributed Systems Edge Computing Cloud Code Review Success doesn’t just find you. You have to go out and get it. Event Sourcing

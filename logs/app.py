@@ -20,3 +20,4 @@ DNS Routing Opportunities don't happen. You create them. The only way to do grea
 Zero Downtime Deployment Success is not in what you have, but who you are. Act as if what you do makes a difference. It does. React A/B Testing
 Do what you love and the money will follow. Optimization Performance Opportunities don't happen. You create them. Act as if what you do makes a difference. It does. Stay hungry, stay foolish. Event-driven Architecture API Gateway Blockchain Backend Logging Kubernetes Server Response Success usually comes to those who are too busy to be looking for it. Dream big and dare to fail.
 Testing Python Virtual Machines Dream big and dare to fail. The only way to do great work is to love what you do. Lambda Functions Agile
+Latency Optimization Replica Set CI/CD Deployment Automation

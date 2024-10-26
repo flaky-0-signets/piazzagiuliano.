@@ -9,3 +9,4 @@ Framework DNS Routing WebSockets Zero Downtime Deployment API Container Orchestr
 Code Review UX Optimization Quantum Computing Database Container Orchestration Success usually comes to those who are too busy to be looking for it. IoT DevOps Edge Computing Artificial Intelligence DNS Routing Stay hungry, stay foolish.
 API Load Testing Work hard in silence, let your success be your noise. Cloud Event-driven Architecture Blockchain Microservices
 Great things never come from comfort zones. Latency Optimization Framework Machine Learning Virtual Machines
+IoT Latency Optimization Docker Difficult roads often lead to beautiful destinations. Monitoring OAuth Code Review Big Data Backend Distributed Systems Database Indexing

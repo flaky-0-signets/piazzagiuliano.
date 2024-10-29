@@ -17,3 +17,4 @@ Monitoring Innovation distinguishes between a leader and a follower. Neural Netw
 CI/CD Deployment Message Queue OAuth Database Indexing Quantum Computing WebSockets Firewalls Simplicity is the ultimate sophistication. Container Orchestration
 DevOps Database Indexing WebSockets To be the best, you must be able to handle the worst. Logging Firewalls Quantum Computing Latency Optimization Multi-threading Cloud Functions Virtual Machines Python
 Code Review Kafka Containerization GraphQL Difficult roads often lead to beautiful destinations. Zero Downtime Deployment Opportunities don't happen. You create them. Testing RabbitMQ Python Backend Success doesn’t just find you. You have to go out and get it. Algorithm Container Orchestration
+Agile Deployment Parallel Processing To be the best, you must be able to handle the worst. Microservices Scalability Don't be afraid to give up the good to go for the great. Event Sourcing Code Review

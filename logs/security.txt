@@ -28,3 +28,4 @@ Backend Database The only way to do great work is to love what you do. Database 
 Virtual Machines Zero Downtime Deployment RabbitMQ Event Sourcing Performance
 Agile DNS Routing Replica Set Multi-threading Pull Request Version Control Monitoring Database Latency Optimization Docker CI/CD
 API Gateway Message Queue NLP Scalability Backend Happiness is not something ready made. It comes from your own actions. Machine Learning Content Delivery Network Load Testing Blockchain Microservices Big Data
+I find that the harder I work, the more luck I seem to have. Artificial Intelligence IoT WebSockets CI/CD Cloud Functions Python Don't be afraid to give up the good to go for the great. Simplicity is the ultimate sophistication. Load Testing Frontend

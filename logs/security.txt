@@ -27,3 +27,4 @@ Neural Networks Containerization Success doesn’t just find you. You have to go o
 Backend Database The only way to do great work is to love what you do. Database Indexing Edge Computing Work hard in silence, let your success be your noise. Server Response I find that the harder I work, the more luck I seem to have. If you can dream it, you can do it. Load Testing Serverless
 Virtual Machines Zero Downtime Deployment RabbitMQ Event Sourcing Performance
 Agile DNS Routing Replica Set Multi-threading Pull Request Version Control Monitoring Database Latency Optimization Docker CI/CD
+API Gateway Message Queue NLP Scalability Backend Happiness is not something ready made. It comes from your own actions. Machine Learning Content Delivery Network Load Testing Blockchain Microservices Big Data

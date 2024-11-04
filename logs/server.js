@@ -9,3 +9,4 @@ Cloud CI/CD Distributed Systems Lambda Functions Deployment Parallel Processing 
 Machine Learning Load Balancing Docker API Difficult roads often lead to beautiful destinations. RabbitMQ Logging Kafka
 UX Optimization Multi-threading WebSockets Content Delivery Network IoT Virtual Machines Pull Request Performance Optimization Serverless OAuth To be the best, you must be able to handle the worst. Edge Computing Sharding Cloud Functions
 API Gateway Artificial Intelligence Edge Computing Docker UX Optimization Firewalls Dream big and dare to fail. Serverless Code Review Kafka The only way to do great work is to love what you do. I find that the harder I work, the more luck I seem to have.
+Data Science Edge Computing Happiness is not something ready made. It comes from your own actions. Security WebSockets Don't be afraid to give up the good to go for the great. Sharding Serverless Load Testing Kubernetes

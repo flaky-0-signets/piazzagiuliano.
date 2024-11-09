@@ -12,3 +12,4 @@ Backend Machine Learning Big Data Simplicity is the ultimate sophistication. Opt
 JWT Kubernetes Performance Cloud Functions Database
 Difficult roads often lead to beautiful destinations. Scalability Machine Learning Success is how high you bounce when you hit bottom. Edge Computing Cloud Performance Distributed Systems Pull Request Framework Optimization API
 Difficult roads often lead to beautiful destinations. Kafka Neural Networks Agile Microservices DevOps RabbitMQ Success doesn’t just find you. You have to go out and get it.
+API Neural Networks Quantum Computing Database Algorithm Replica Set Simplicity is the ultimate sophistication. A/B Testing Virtual Machines Event Sourcing The only way to do great work is to love what you do. Sharding Message Queue

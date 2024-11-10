@@ -14,3 +14,4 @@ The only way to do great work is to love what you do. Happiness is not something
 Quantum Computing IoT Distributed Systems Sharding React Virtual Machines Microservices Framework Load Testing
 Pull Request DNS Routing Container Orchestration Version Control Success doesn’t just find you. You have to go out and get it.
 Monitoring Innovation distinguishes between a leader and a follower. Neural Networks Backend IoT Happiness is not something ready made. It comes from your own actions. Automation Containerization OAuth
+CI/CD Deployment Message Queue OAuth Database Indexing Quantum Computing WebSockets Firewalls Simplicity is the ultimate sophistication. Container Orchestration

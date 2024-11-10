@@ -19,3 +19,4 @@ Replica Set Machine Learning Backend Kafka Success doesn’t just find you. You ha
 Docker Kafka Containerization API Multi-threading Message Queue Blockchain Innovation distinguishes between a leader and a follower. WebSockets If you can dream it, you can do it. DevOps
 Security Content Delivery Network NLP DNS Routing Testing Success doesn’t just find you. You have to go out and get it. Edge Computing GraphQL Predictive Analytics If you can dream it, you can do it. Simplicity is the ultimate sophistication. Kafka Algorithm
 Do what you love and the money will follow. Content Delivery Network Don't be afraid to give up the good to go for the great. Opportunities don't happen. You create them. CI/CD
+A/B Testing Content Delivery Network Artificial Intelligence Great things never come from comfort zones. The only way to do great work is to love what you do. NLP Stay hungry, stay foolish. Success is how high you bounce when you hit bottom. API WebSockets Containerization

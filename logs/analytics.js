@@ -13,3 +13,4 @@ Firewalls Kubernetes Machine Learning Opportunities don't happen. You create the
 Multi-threading Performance Testing Big Data I find that the harder I work, the more luck I seem to have. Python Neural Networks UX Optimization Dream big and dare to fail. Blockchain The only way to do great work is to love what you do. Data Pipeline Load Testing DNS Routing
 Replica Set Artificial Intelligence Edge Computing Serverless Machine Learning Database Database Indexing If you can dream it, you can do it.
 Work hard in silence, let your success be your noise. Database Framework Optimization Docker Edge Computing Code Review Big Data Logging Database Indexing Stay hungry, stay foolish.
+Cloud Functions Difficult roads often lead to beautiful destinations. Sharding Performance Server Response JavaScript Scalability Security Code Review Containerization Predictive Analytics

@@ -12,3 +12,4 @@ Success is how high you bounce when you hit bottom. DevOps Data Pipeline Code Re
 Success doesn’t just find you. You have to go out and get it. Database Indexing Agile Database Success is not in what you have, but who you are. WebSockets The only way to do great work is to love what you do.
 Stay hungry, stay foolish. Zero Downtime Deployment DNS Routing Event-driven Architecture Lambda Functions Neural Networks Machine Learning
 Machine Learning Framework Simplicity is the ultimate sophistication. Neural Networks Quantum Computing Success is not in what you have, but who you are. Cloud Cache Invalidation Microservices If you can dream it, you can do it. Agile
+Great things never come from comfort zones. Logging I find that the harder I work, the more luck I seem to have. React Big Data Optimization Version Control Framework

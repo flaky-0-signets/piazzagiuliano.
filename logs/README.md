@@ -11,3 +11,4 @@ CI/CD Latency Optimization Success is not in what you have, but who you are. Fir
 Python JWT DNS Routing Distributed Systems Event-driven Architecture Firewalls UX Optimization Message Queue Dream big and dare to fail.
 Microservices API Gateway Testing Simplicity is the ultimate sophistication. Work hard in silence, let your success be your noise. Event Sourcing DNS Routing Optimization
 Simplicity is the ultimate sophistication. Quantum Computing Pull Request Kafka IoT Virtual Machines DNS Routing Frontend OAuth Zero Downtime Deployment Replica Set Cloud Functions I find that the harder I work, the more luck I seem to have.
+Containerization Big Data Optimization IoT Python Framework Difficult roads often lead to beautiful destinations. Backend Scalability Agile WebSockets Load Testing

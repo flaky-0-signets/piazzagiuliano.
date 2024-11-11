@@ -18,3 +18,4 @@ Great things never come from comfort zones. Python Success is how high you bounc
 Replica Set Machine Learning Backend Kafka Success doesn’t just find you. You have to go out and get it. Frontend Content Delivery Network
 Docker Kafka Containerization API Multi-threading Message Queue Blockchain Innovation distinguishes between a leader and a follower. WebSockets If you can dream it, you can do it. DevOps
 Security Content Delivery Network NLP DNS Routing Testing Success doesn’t just find you. You have to go out and get it. Edge Computing GraphQL Predictive Analytics If you can dream it, you can do it. Simplicity is the ultimate sophistication. Kafka Algorithm
+Do what you love and the money will follow. Content Delivery Network Don't be afraid to give up the good to go for the great. Opportunities don't happen. You create them. CI/CD

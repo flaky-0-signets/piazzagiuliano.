@@ -18,3 +18,4 @@ Serverless Backend Virtual Machines The only way to do great work is to love wha
 Success is how high you bounce when you hit bottom. Performance Docker JWT CI/CD JavaScript Success is not in what you have, but who you are. Frontend Event Sourcing Distributed Systems Lambda Functions Scalability Optimization A/B Testing
 Serverless Content Delivery Network Message Queue Security Docker Cloud Functions Containerization Automation
 Containerization DevOps Content Delivery Network Frontend Framework Event Sourcing
+Deployment Content Delivery Network WebSockets API Gateway Cache Invalidation Load Balancing Load Testing OAuth

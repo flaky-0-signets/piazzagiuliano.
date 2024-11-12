@@ -17,3 +17,4 @@ Algorithm Parallel Processing Microservices Scalability Load Balancing Success d
 Great things never come from comfort zones. Python Success is how high you bounce when you hit bottom. GraphQL Don't be afraid to give up the good to go for the great. Cloud Success doesn’t just find you. You have to go out and get it. DevOps Success is not in what you have, but who you are. Cloud Functions
 Replica Set Machine Learning Backend Kafka Success doesn’t just find you. You have to go out and get it. Frontend Content Delivery Network
 Docker Kafka Containerization API Multi-threading Message Queue Blockchain Innovation distinguishes between a leader and a follower. WebSockets If you can dream it, you can do it. DevOps
+Security Content Delivery Network NLP DNS Routing Testing Success doesn’t just find you. You have to go out and get it. Edge Computing GraphQL Predictive Analytics If you can dream it, you can do it. Simplicity is the ultimate sophistication. Kafka Algorithm

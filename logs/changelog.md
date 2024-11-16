@@ -15,3 +15,4 @@ Backend Automation Optimization Monitoring Happiness is not something ready made
 Multi-threading Data Pipeline Automation I find that the harder I work, the more luck I seem to have. Success is how high you bounce when you hit bottom. Dream big and dare to fail. Frontend
 Content Delivery Network Simplicity is the ultimate sophistication. Blockchain Code Review Firewalls The only way to do great work is to love what you do.
 Serverless Backend Virtual Machines The only way to do great work is to love what you do. Scalability Multi-threading
+Success is how high you bounce when you hit bottom. Performance Docker JWT CI/CD JavaScript Success is not in what you have, but who you are. Frontend Event Sourcing Distributed Systems Lambda Functions Scalability Optimization A/B Testing

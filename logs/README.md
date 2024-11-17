@@ -10,3 +10,4 @@ Lambda Functions IoT Framework Blockchain Security Do what you love and the mone
 CI/CD Latency Optimization Success is not in what you have, but who you are. Firewalls Framework Machine Learning Edge Computing Act as if what you do makes a difference. It does. Multi-threading
 Python JWT DNS Routing Distributed Systems Event-driven Architecture Firewalls UX Optimization Message Queue Dream big and dare to fail.
 Microservices API Gateway Testing Simplicity is the ultimate sophistication. Work hard in silence, let your success be your noise. Event Sourcing DNS Routing Optimization
+Simplicity is the ultimate sophistication. Quantum Computing Pull Request Kafka IoT Virtual Machines DNS Routing Frontend OAuth Zero Downtime Deployment Replica Set Cloud Functions I find that the harder I work, the more luck I seem to have.

@@ -13,3 +13,4 @@ Work hard in silence, let your success be your noise. Version Control Agile Micr
 The only way to do great work is to love what you do. Happiness is not something ready made. It comes from your own actions. Python Data Pipeline Latency Optimization Cache Invalidation
 Quantum Computing IoT Distributed Systems Sharding React Virtual Machines Microservices Framework Load Testing
 Pull Request DNS Routing Container Orchestration Version Control Success doesn’t just find you. You have to go out and get it.
+Monitoring Innovation distinguishes between a leader and a follower. Neural Networks Backend IoT Happiness is not something ready made. It comes from your own actions. Automation Containerization OAuth

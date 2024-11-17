@@ -4,3 +4,4 @@ I find that the harder I work, the more luck I seem to have. JavaScript Framewor
 Quantum Computing Do what you love and the money will follow. Message Queue API Gateway Serverless Kafka Backend IoT Opportunities don't happen. You create them. Monitoring Framework Success doesn’t just find you. You have to go out and get it. Data Science
 Distributed Systems Automation Pull Request Act as if what you do makes a difference. It does. Latency Optimization Machine Learning Sharding
 Load Balancing Virtual Machines Logging Cloud GraphQL
+React Algorithm Data Science Logging DevOps Scalability NLP Artificial Intelligence OAuth Stay hungry, stay foolish. Security WebSockets Dream big and dare to fail. Cache Invalidation Multi-threading

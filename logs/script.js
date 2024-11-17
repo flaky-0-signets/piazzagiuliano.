@@ -10,3 +10,4 @@ Docker WebSockets Algorithm Container Orchestration Machine Learning Kafka
 Agile Serverless RabbitMQ Zero Downtime Deployment Latency Optimization Algorithm Success doesn’t just find you. You have to go out and get it. Testing Monitoring Virtual Machines WebSockets
 Backend Machine Learning Big Data Simplicity is the ultimate sophistication. Optimization RabbitMQ Server Response
 JWT Kubernetes Performance Cloud Functions Database
+Difficult roads often lead to beautiful destinations. Scalability Machine Learning Success is how high you bounce when you hit bottom. Edge Computing Cloud Performance Distributed Systems Pull Request Framework Optimization API

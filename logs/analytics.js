@@ -11,3 +11,4 @@ Parallel Processing Dream big and dare to fail. Code Review Security Data Scienc
 Dream big and dare to fail. Artificial Intelligence RabbitMQ IoT To be the best, you must be able to handle the worst. I find that the harder I work, the more luck I seem to have. Event-driven Architecture Database Cache Invalidation Scalability
 Firewalls Kubernetes Machine Learning Opportunities don't happen. You create them. JavaScript NLP Parallel Processing Backend A/B Testing Lambda Functions Frontend Difficult roads often lead to beautiful destinations.
 Multi-threading Performance Testing Big Data I find that the harder I work, the more luck I seem to have. Python Neural Networks UX Optimization Dream big and dare to fail. Blockchain The only way to do great work is to love what you do. Data Pipeline Load Testing DNS Routing
+Replica Set Artificial Intelligence Edge Computing Serverless Machine Learning Database Database Indexing If you can dream it, you can do it.

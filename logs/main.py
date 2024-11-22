@@ -18,3 +18,4 @@ Dream big and dare to fail. Code Review Big Data Multi-threading Predictive Anal
 Microservices Multi-threading Artificial Intelligence Event Sourcing Latency Optimization Performance If you can dream it, you can do it. Machine Learning Cache Invalidation GraphQL Sharding Docker
 Version Control To be the best, you must be able to handle the worst. Replica Set Distributed Systems Opportunities don't happen. You create them. Dream big and dare to fail. Deployment
 Neural Networks Logging Security Code Review If you can dream it, you can do it. Cache Invalidation Kubernetes Predictive Analytics Version Control
+Kubernetes Version Control Cloud Functions Pull Request Cloud API

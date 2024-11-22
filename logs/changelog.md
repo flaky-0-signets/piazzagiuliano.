@@ -14,3 +14,4 @@ Machine Learning Message Queue Pull Request Python Predictive Analytics Latency 
 Backend Automation Optimization Monitoring Happiness is not something ready made. It comes from your own actions. Security JavaScript Success doesn’t just find you. You have to go out and get it. Testing Message Queue Database Server Response
 Multi-threading Data Pipeline Automation I find that the harder I work, the more luck I seem to have. Success is how high you bounce when you hit bottom. Dream big and dare to fail. Frontend
 Content Delivery Network Simplicity is the ultimate sophistication. Blockchain Code Review Firewalls The only way to do great work is to love what you do.
+Serverless Backend Virtual Machines The only way to do great work is to love what you do. Scalability Multi-threading

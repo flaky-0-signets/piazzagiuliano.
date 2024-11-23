@@ -5,3 +5,4 @@ Success usually comes to those who are too busy to be looking for it. Artificial
 Success is how high you bounce when you hit bottom. CI/CD Innovation distinguishes between a leader and a follower. Success usually comes to those who are too busy to be looking for it. JWT Cloud Functions WebSockets Frontend React Quantum Computing Edge Computing Don't be afraid to give up the good to go for the great.
 Kubernetes IoT NLP Lambda Functions Security JWT Database RabbitMQ
 Multi-threading Lambda Functions Stay hungry, stay foolish. Kafka Replica Set If you can dream it, you can do it. I find that the harder I work, the more luck I seem to have.
+RabbitMQ Security Data Pipeline Replica Set Happiness is not something ready made. It comes from your own actions. Sharding Scalability Machine Learning Event Sourcing Opportunities don't happen. You create them. Monitoring Quantum Computing Frontend

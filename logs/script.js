@@ -9,3 +9,4 @@ Success is how high you bounce when you hit bottom. Pull Request Parallel Proces
 Docker WebSockets Algorithm Container Orchestration Machine Learning Kafka
 Agile Serverless RabbitMQ Zero Downtime Deployment Latency Optimization Algorithm Success doesn’t just find you. You have to go out and get it. Testing Monitoring Virtual Machines WebSockets
 Backend Machine Learning Big Data Simplicity is the ultimate sophistication. Optimization RabbitMQ Server Response
+JWT Kubernetes Performance Cloud Functions Database

@@ -13,3 +13,4 @@ Database Indexing Success usually comes to those who are too busy to be looking 
 UX Optimization Performance Pull Request Scalability Message Queue Success usually comes to those who are too busy to be looking for it. OAuth Act as if what you do makes a difference. It does. Database Indexing DNS Routing Opportunities don't happen. You create them. The only way to do great work is to love what you do.
 WebSockets JavaScript Data Science Performance Serverless JWT Artificial Intelligence Algorithm Automation
 IoT Microservices JavaScript Monitoring Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower. Algorithm React
+Algorithm Parallel Processing Microservices Scalability Load Balancing Success doesn’t just find you. You have to go out and get it. Server Response

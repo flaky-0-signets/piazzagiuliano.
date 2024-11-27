@@ -9,3 +9,4 @@ NLP Blockchain DevOps Message Queue Artificial Intelligence Happiness is not som
 DevOps Monitoring Big Data OAuth JavaScript React Frontend
 Dream big and dare to fail. JWT Cloud Performance Multi-threading Event Sourcing Opportunities don't happen. You create them. If you can dream it, you can do it. Success doesn’t just find you. You have to go out and get it. Replica Set Quantum Computing
 Success is how high you bounce when you hit bottom. DevOps Data Pipeline Code Review Artificial Intelligence Happiness is not something ready made. It comes from your own actions. Simplicity is the ultimate sophistication. IoT Load Balancing
+Success doesn’t just find you. You have to go out and get it. Database Indexing Agile Database Success is not in what you have, but who you are. WebSockets The only way to do great work is to love what you do.

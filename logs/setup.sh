@@ -15,3 +15,4 @@ Zero Downtime Deployment Innovation distinguishes between a leader and a followe
 Distributed Systems DNS Routing Pull Request React Lambda Functions Database If you can dream it, you can do it. Docker Blockchain API Success is not in what you have, but who you are. Virtual Machines
 Version Control Replica Set Sharding I find that the harder I work, the more luck I seem to have. Dream big and dare to fail. Microservices API
 DevOps Docker Event-driven Architecture Load Testing Firewalls Load Balancing Cache Invalidation Containerization Security
+DNS Routing Automation Monitoring Neural Networks JWT

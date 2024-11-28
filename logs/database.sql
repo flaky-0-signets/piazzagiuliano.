@@ -9,3 +9,4 @@ Backend To be the best, you must be able to handle the worst. Testing Framework 
 Containerization React Multi-threading Pull Request UX Optimization JWT To be the best, you must be able to handle the worst. Big Data Edge Computing Microservices Firewalls Success doesn’t just find you. You have to go out and get it.
 Work hard in silence, let your success be your noise. Kafka Predictive Analytics Act as if what you do makes a difference. It does. Container Orchestration Great things never come from comfort zones. Stay hungry, stay foolish. Latency Optimization Serverless Difficult roads often lead to beautiful destinations.
 Microservices Content Delivery Network Framework JWT Success usually comes to those who are too busy to be looking for it. Data Science Agile Server Response DevOps
+Difficult roads often lead to beautiful destinations. Cloud Neural Networks Scalability Happiness is not something ready made. It comes from your own actions. Virtual Machines

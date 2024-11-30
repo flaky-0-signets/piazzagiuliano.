@@ -15,3 +15,4 @@ Virtual Machines I find that the harder I work, the more luck I seem to have. Se
 Edge Computing React JWT Backend Frontend Docker
 Parallel Processing Pull Request Automation Replica Set Framework Server Response If you can dream it, you can do it. Stay hungry, stay foolish.
 Multi-threading Load Testing Artificial Intelligence Event-driven Architecture Containerization UX Optimization JWT Big Data Pull Request Data Science Security
+Parallel Processing Performance Great things never come from comfort zones. Neural Networks JWT NLP

@@ -17,3 +17,4 @@ Performance The only way to do great work is to love what you do. Do what you lo
 Dream big and dare to fail. Code Review Big Data Multi-threading Predictive Analytics Agile Parallel Processing Don't be afraid to give up the good to go for the great.
 Microservices Multi-threading Artificial Intelligence Event Sourcing Latency Optimization Performance If you can dream it, you can do it. Machine Learning Cache Invalidation GraphQL Sharding Docker
 Version Control To be the best, you must be able to handle the worst. Replica Set Distributed Systems Opportunities don't happen. You create them. Dream big and dare to fail. Deployment
+Neural Networks Logging Security Code Review If you can dream it, you can do it. Cache Invalidation Kubernetes Predictive Analytics Version Control

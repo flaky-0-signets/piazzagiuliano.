@@ -12,3 +12,4 @@ Firewalls Kubernetes DevOps Backend If you can dream it, you can do it. Blockcha
 Blockchain GraphQL Monitoring Success doesn’t just find you. You have to go out and get it. Event Sourcing Serverless
 Load Balancing UX Optimization Latency Optimization CI/CD NLP A/B Testing Machine Learning Security Success usually comes to those who are too busy to be looking for it.
 Zero Downtime Deployment Cloud Functions Firewalls GraphQL If you can dream it, you can do it. Microservices Cloud Deployment
+Neural Networks Performance Testing Code Review Frontend If you can dream it, you can do it. Simplicity is the ultimate sophistication. UX Optimization

@@ -7,3 +7,4 @@ Stay hungry, stay foolish. CI/CD Difficult roads often lead to beautiful destina
 Microservices GraphQL Kubernetes Success usually comes to those who are too busy to be looking for it. Load Testing A/B Testing WebSockets Scalability Neural Networks RabbitMQ The only way to do great work is to love what you do.
 Cloud CI/CD Distributed Systems Lambda Functions Deployment Parallel Processing Work hard in silence, let your success be your noise. Zero Downtime Deployment Logging Difficult roads often lead to beautiful destinations. Don't be afraid to give up the good to go for the great. API Gateway
 Machine Learning Load Balancing Docker API Difficult roads often lead to beautiful destinations. RabbitMQ Logging Kafka
+UX Optimization Multi-threading WebSockets Content Delivery Network IoT Virtual Machines Pull Request Performance Optimization Serverless OAuth To be the best, you must be able to handle the worst. Edge Computing Sharding Cloud Functions

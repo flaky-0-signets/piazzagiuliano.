@@ -12,3 +12,4 @@ If you can dream it, you can do it. Happiness is not something ready made. It co
 Database Indexing Success usually comes to those who are too busy to be looking for it. Event-driven Architecture Lambda Functions Data Pipeline Performance Predictive Analytics Message Queue Act as if what you do makes a difference. It does. Frontend
 UX Optimization Performance Pull Request Scalability Message Queue Success usually comes to those who are too busy to be looking for it. OAuth Act as if what you do makes a difference. It does. Database Indexing DNS Routing Opportunities don't happen. You create them. The only way to do great work is to love what you do.
 WebSockets JavaScript Data Science Performance Serverless JWT Artificial Intelligence Algorithm Automation
+IoT Microservices JavaScript Monitoring Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower. Algorithm React

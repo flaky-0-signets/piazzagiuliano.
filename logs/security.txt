@@ -19,3 +19,4 @@ Virtual Machines JavaScript Opportunities don't happen. You create them. Stay hu
 Cloud Functions Work hard in silence, let your success be your noise. Success usually comes to those who are too busy to be looking for it. Scalability Data Pipeline Server Response Virtual Machines Serverless OAuth CI/CD
 Load Testing Scalability Kafka Innovation distinguishes between a leader and a follower. OAuth Act as if what you do makes a difference. It does.
 Docker Neural Networks Kubernetes Load Testing Sharding Happiness is not something ready made. It comes from your own actions. To be the best, you must be able to handle the worst.
+API Gateway Content Delivery Network OAuth Framework Cloud Python Do what you love and the money will follow. Opportunities don't happen. You create them. GraphQL Monitoring API Neural Networks Success doesn’t just find you. You have to go out and get it. Success is not in what you have, but who you are. Latency Optimization

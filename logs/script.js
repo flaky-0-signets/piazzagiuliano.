@@ -7,3 +7,4 @@ Predictive Analytics Innovation distinguishes between a leader and a follower. T
 Quantum Computing IoT Predictive Analytics Message Queue GraphQL Security DNS Routing Don't be afraid to give up the good to go for the great.
 Success is how high you bounce when you hit bottom. Pull Request Parallel Processing Act as if what you do makes a difference. It does. Python Kafka Data Pipeline Server Response Kubernetes OAuth Containerization Deployment
 Docker WebSockets Algorithm Container Orchestration Machine Learning Kafka
+Agile Serverless RabbitMQ Zero Downtime Deployment Latency Optimization Algorithm Success doesn’t just find you. You have to go out and get it. Testing Monitoring Virtual Machines WebSockets

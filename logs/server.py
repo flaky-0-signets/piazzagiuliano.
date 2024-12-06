@@ -7,3 +7,4 @@ Innovation distinguishes between a leader and a follower. Sharding Containerizat
 IoT Cloud Functions Message Queue Machine Learning Database Indexing DNS Routing Serverless Agile Performance Frontend React
 NLP Blockchain DevOps Message Queue Artificial Intelligence Happiness is not something ready made. It comes from your own actions. GraphQL Performance Algorithm
 DevOps Monitoring Big Data OAuth JavaScript React Frontend
+Dream big and dare to fail. JWT Cloud Performance Multi-threading Event Sourcing Opportunities don't happen. You create them. If you can dream it, you can do it. Success doesn’t just find you. You have to go out and get it. Replica Set Quantum Computing

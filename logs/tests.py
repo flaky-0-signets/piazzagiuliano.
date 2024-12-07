@@ -10,3 +10,4 @@ Work hard in silence, let your success be your noise. NLP CI/CD Big Data Server 
 Edge Computing Event-driven Architecture Security Success is how high you bounce when you hit bottom. Backend
 Firewalls Kubernetes DevOps Backend If you can dream it, you can do it. Blockchain Neural Networks Data Pipeline
 Blockchain GraphQL Monitoring Success doesn’t just find you. You have to go out and get it. Event Sourcing Serverless
+Load Balancing UX Optimization Latency Optimization CI/CD NLP A/B Testing Machine Learning Security Success usually comes to those who are too busy to be looking for it.

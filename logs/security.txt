@@ -18,3 +18,4 @@ Cache Invalidation Event Sourcing Content Delivery Network Backend Server Respon
 Virtual Machines JavaScript Opportunities don't happen. You create them. Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. Event Sourcing
 Cloud Functions Work hard in silence, let your success be your noise. Success usually comes to those who are too busy to be looking for it. Scalability Data Pipeline Server Response Virtual Machines Serverless OAuth CI/CD
 Load Testing Scalability Kafka Innovation distinguishes between a leader and a follower. OAuth Act as if what you do makes a difference. It does.
+Docker Neural Networks Kubernetes Load Testing Sharding Happiness is not something ready made. It comes from your own actions. To be the best, you must be able to handle the worst.

@@ -6,3 +6,4 @@ Act as if what you do makes a difference. It does. Cloud Functions Content Deliv
 Innovation distinguishes between a leader and a follower. Sharding Containerization API Gateway Cloud Functions Success usually comes to those who are too busy to be looking for it.
 IoT Cloud Functions Message Queue Machine Learning Database Indexing DNS Routing Serverless Agile Performance Frontend React
 NLP Blockchain DevOps Message Queue Artificial Intelligence Happiness is not something ready made. It comes from your own actions. GraphQL Performance Algorithm
+DevOps Monitoring Big Data OAuth JavaScript React Frontend

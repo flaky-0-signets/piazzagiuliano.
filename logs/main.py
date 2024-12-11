@@ -13,3 +13,4 @@ Version Control Microservices Deployment Big Data Load Testing Performance Zero 
 Event Sourcing I find that the harder I work, the more luck I seem to have. Success is not in what you have, but who you are. Container Orchestration Backend Work hard in silence, let your success be your noise.
 Pull Request Replica Set GraphQL Cloud Functions Code Review
 Virtual Machines React Cloud Functions RabbitMQ Big Data Serverless
+Performance The only way to do great work is to love what you do. Do what you love and the money will follow. If you can dream it, you can do it. Predictive Analytics

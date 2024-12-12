@@ -8,3 +8,4 @@ JWT Artificial Intelligence Database Message Queue IoT Cache Invalidation Framew
 Virtual Machines Machine Learning Content Delivery Network Don't be afraid to give up the good to go for the great. Docker Sharding
 Replica Set Big Data Automation Kubernetes Lambda Functions Success usually comes to those who are too busy to be looking for it. Edge Computing Database Performance Predictive Analytics Neural Networks
 Kafka Big Data Machine Learning Version Control Dream big and dare to fail. Edge Computing Load Testing I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment Do what you love and the money will follow. Algorithm
+CI/CD Automation Multi-threading Replica Set Lambda Functions Kubernetes Monitoring Great things never come from comfort zones. API Innovation distinguishes between a leader and a follower. Machine Learning Pull Request Microservices

@@ -12,3 +12,4 @@ Database Indexing GraphQL Performance Event-driven Architecture RabbitMQ Innovat
 WebSockets Version Control Cloud Act as if what you do makes a difference. It does. Kafka Cache Invalidation Load Testing UX Optimization Zero Downtime Deployment Stay hungry, stay foolish. Optimization OAuth Data Science Event-driven Architecture Data Pipeline
 Difficult roads often lead to beautiful destinations. Lambda Functions Multi-threading Success usually comes to those who are too busy to be looking for it. Database Container Orchestration Stay hungry, stay foolish. Docker Pull Request Work hard in silence, let your success be your noise. Artificial Intelligence NLP Server Response
 Virtual Machines I find that the harder I work, the more luck I seem to have. Serverless Database Multi-threading Load Balancing Security Don't be afraid to give up the good to go for the great. If you can dream it, you can do it. Kubernetes
+Edge Computing React JWT Backend Frontend Docker

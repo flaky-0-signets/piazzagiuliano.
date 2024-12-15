@@ -8,3 +8,4 @@ Zero Downtime Deployment Stay hungry, stay foolish. Frontend Scalability The onl
 Optimization Algorithm Replica Set Success usually comes to those who are too busy to be looking for it. Great things never come from comfort zones. Sharding Virtual Machines API Backend Kubernetes Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment JWT
 Work hard in silence, let your success be your noise. NLP CI/CD Big Data Server Response Quantum Computing Load Balancing Deployment Data Science Event-driven Architecture Content Delivery Network
 Edge Computing Event-driven Architecture Security Success is how high you bounce when you hit bottom. Backend
+Firewalls Kubernetes DevOps Backend If you can dream it, you can do it. Blockchain Neural Networks Data Pipeline

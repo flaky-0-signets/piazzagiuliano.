@@ -9,3 +9,4 @@ Docker Stay hungry, stay foolish. Monitoring Data Pipeline Server Response Quant
 DNS Routing Load Balancing Work hard in silence, let your success be your noise. Happiness is not something ready made. It comes from your own actions. Stay hungry, stay foolish. JWT RabbitMQ Database Indexing Agile Event Sourcing API Gateway
 Container Orchestration Difficult roads often lead to beautiful destinations. Distributed Systems Cloud Functions Content Delivery Network Dream big and dare to fail. Docker CI/CD Framework Testing React
 Database Indexing GraphQL Performance Event-driven Architecture RabbitMQ Innovation distinguishes between a leader and a follower.
+WebSockets Version Control Cloud Act as if what you do makes a difference. It does. Kafka Cache Invalidation Load Testing UX Optimization Zero Downtime Deployment Stay hungry, stay foolish. Optimization OAuth Data Science Event-driven Architecture Data Pipeline

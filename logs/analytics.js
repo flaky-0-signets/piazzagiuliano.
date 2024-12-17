@@ -6,3 +6,4 @@ Code Review Logging Performance Don't be afraid to give up the good to go for th
 Act as if what you do makes a difference. It does. Agile Stay hungry, stay foolish. Load Balancing CI/CD Scalability RabbitMQ
 Frontend Innovation distinguishes between a leader and a follower. Blockchain Data Pipeline Version Control WebSockets Latency Optimization Big Data Act as if what you do makes a difference. It does. To be the best, you must be able to handle the worst.
 Success doesn’t just find you. You have to go out and get it. If you can dream it, you can do it. Stay hungry, stay foolish. Algorithm Event-driven Architecture
+Load Balancing Cloud API Gateway Simplicity is the ultimate sophistication. Version Control Great things never come from comfort zones. Machine Learning Artificial Intelligence Microservices Stay hungry, stay foolish. Zero Downtime Deployment Innovation distinguishes between a leader and a follower. Do what you love and the money will follow.

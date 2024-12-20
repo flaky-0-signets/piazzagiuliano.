@@ -7,3 +7,4 @@ Sharding Cloud Cache Invalidation Event Sourcing API Gateway Blockchain
 Cloud Functions Database Indexing JWT Server Response API Opportunities don't happen. You create them. I find that the harder I work, the more luck I seem to have. Data Science Replica Set Container Orchestration Neural Networks Data Pipeline UX Optimization Lambda Functions
 Virtual Machines React Server Response Lambda Functions Content Delivery Network Neural Networks Containerization Security Event-driven Architecture Code Review Serverless Backend Success is not in what you have, but who you are.
 Event-driven Architecture Cloud Logging Database Indexing Data Pipeline Cloud Functions
+Deployment CI/CD Server Response WebSockets Pull Request

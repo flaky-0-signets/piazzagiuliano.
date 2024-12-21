@@ -7,3 +7,4 @@ Logging Do what you love and the money will follow. Backend UX Optimization The 
 Load Balancing Data Pipeline Multi-threading Act as if what you do makes a difference. It does. Innovation distinguishes between a leader and a follower.
 Docker Stay hungry, stay foolish. Monitoring Data Pipeline Server Response Quantum Computing Big Data CI/CD Parallel Processing OAuth Database Success is how high you bounce when you hit bottom.
 DNS Routing Load Balancing Work hard in silence, let your success be your noise. Happiness is not something ready made. It comes from your own actions. Stay hungry, stay foolish. JWT RabbitMQ Database Indexing Agile Event Sourcing API Gateway
+Container Orchestration Difficult roads often lead to beautiful destinations. Distributed Systems Cloud Functions Content Delivery Network Dream big and dare to fail. Docker CI/CD Framework Testing React

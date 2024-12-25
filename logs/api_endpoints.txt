@@ -6,3 +6,4 @@ Big Data Artificial Intelligence Event Sourcing Code Review Latency Optimization
 Agile Content Delivery Network Database Serverless Scalability Lambda Functions Deployment Logging Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it.
 JWT Artificial Intelligence Database Message Queue IoT Cache Invalidation Framework Data Pipeline Simplicity is the ultimate sophistication.
 Virtual Machines Machine Learning Content Delivery Network Don't be afraid to give up the good to go for the great. Docker Sharding
+Replica Set Big Data Automation Kubernetes Lambda Functions Success usually comes to those who are too busy to be looking for it. Edge Computing Database Performance Predictive Analytics Neural Networks

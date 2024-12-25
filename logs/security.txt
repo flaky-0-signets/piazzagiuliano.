@@ -13,3 +13,4 @@ Cloud Functions Python JWT Difficult roads often lead to beautiful destinations.
 Success is how high you bounce when you hit bottom. Lambda Functions Load Testing I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment Pull Request Edge Computing Logging Cloud Testing API Great things never come from comfort zones. GraphQL Frontend Multi-threading
 DevOps Simplicity is the ultimate sophistication. Replica Set Data Pipeline Scalability Server Response Load Testing Lambda Functions Don't be afraid to give up the good to go for the great. JWT Quantum Computing
 DNS Routing RabbitMQ Event Sourcing Success is not in what you have, but who you are. Kafka
+Framework Success usually comes to those who are too busy to be looking for it. Event-driven Architecture Version Control DNS Routing Message Queue Innovation distinguishes between a leader and a follower. Virtual Machines Machine Learning Content Delivery Network

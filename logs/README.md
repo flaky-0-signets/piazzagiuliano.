@@ -3,3 +3,4 @@ Replica Set Success doesn’t just find you. You have to go out and get it. Scalab
 Data Science Cache Invalidation A/B Testing Success is not in what you have, but who you are. Work hard in silence, let your success be your noise. Zero Downtime Deployment Distributed Systems
 Load Testing Kubernetes OAuth Serverless Sharding
 Parallel Processing Great things never come from comfort zones. Message Queue Distributed Systems Data Pipeline Microservices WebSockets
+NLP DevOps Success doesn’t just find you. You have to go out and get it. Logging Happiness is not something ready made. It comes from your own actions. Quantum Computing

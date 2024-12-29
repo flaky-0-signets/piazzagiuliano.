@@ -8,3 +8,4 @@ UX Optimization Machine Learning Data Science Database Indexing Automation Data 
 Lambda Functions Artificial Intelligence The only way to do great work is to love what you do. Pull Request Load Testing Stay hungry, stay foolish. Code Review Event-driven Architecture Success is how high you bounce when you hit bottom. Version Control React IoT Simplicity is the ultimate sophistication.
 GraphQL Lambda Functions Content Delivery Network Scalability Database Indexing Parallel Processing Logging
 Performance Sharding Edge Computing Logging Cloud Functions Parallel Processing Code Review React I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication.
+Latency Optimization Cloud IoT Lambda Functions Event-driven Architecture Success is how high you bounce when you hit bottom.

@@ -5,3 +5,4 @@ Kafka A/B Testing Scalability Docker Serverless GraphQL UX Optimization Sharding
 Logging Machine Learning Do what you love and the money will follow. Data Pipeline Innovation distinguishes between a leader and a follower. WebSockets Cloud
 Logging Do what you love and the money will follow. Backend UX Optimization The only way to do great work is to love what you do. Stay hungry, stay foolish. Database Success doesn’t just find you. You have to go out and get it. Replica Set Optimization Microservices Container Orchestration A/B Testing Innovation distinguishes between a leader and a follower.
 Load Balancing Data Pipeline Multi-threading Act as if what you do makes a difference. It does. Innovation distinguishes between a leader and a follower.
+Docker Stay hungry, stay foolish. Monitoring Data Pipeline Server Response Quantum Computing Big Data CI/CD Parallel Processing OAuth Database Success is how high you bounce when you hit bottom.

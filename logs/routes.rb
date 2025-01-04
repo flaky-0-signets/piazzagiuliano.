@@ -4,3 +4,4 @@ Zero Downtime Deployment Container Orchestration Opportunities don't happen. You
 Success doesn’t just find you. You have to go out and get it. Frontend JavaScript Python OAuth Framework Logging DNS Routing UX Optimization
 Code Review UX Optimization Zero Downtime Deployment GraphQL Database Indexing IoT If you can dream it, you can do it.
 Dream big and dare to fail. Database Indexing Python DevOps Monitoring I find that the harder I work, the more luck I seem to have. Lambda Functions Cloud Functions Simplicity is the ultimate sophistication. Artificial Intelligence Database
+Event-driven Architecture To be the best, you must be able to handle the worst. Distributed Systems Neural Networks Containerization Optimization Do what you love and the money will follow. DevOps If you can dream it, you can do it. Event Sourcing Act as if what you do makes a difference. It does. Backend JavaScript Docker

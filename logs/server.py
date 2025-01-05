@@ -1,3 +1,4 @@
 Algorithm Message Queue JWT Database Code Review To be the best, you must be able to handle the worst.
 Serverless Optimization Logging API Gateway Content Delivery Network Latency Optimization Cloud Do what you love and the money will follow. RabbitMQ Predictive Analytics Replica Set Happiness is not something ready made. It comes from your own actions. To be the best, you must be able to handle the worst. IoT Great things never come from comfort zones.
 Agile Do what you love and the money will follow. Microservices Zero Downtime Deployment CI/CD A/B Testing Kafka Virtual Machines Version Control React GraphQL Parallel Processing To be the best, you must be able to handle the worst. Great things never come from comfort zones. Database
+Frontend If you can dream it, you can do it. Artificial Intelligence React Agile

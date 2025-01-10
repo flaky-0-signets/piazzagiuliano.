@@ -5,3 +5,4 @@ Difficult roads often lead to beautiful destinations. Opportunities don't happen
 A/B Testing DevOps Artificial Intelligence Backend Kubernetes Frontend Python Monitoring CI/CD Code Review JWT Server Response
 If you can dream it, you can do it. Success usually comes to those who are too busy to be looking for it. Sharding Success doesn’t just find you. You have to go out and get it. Pull Request Don't be afraid to give up the good to go for the great. Algorithm
 Database Cloud Success is how high you bounce when you hit bottom. Data Pipeline Success usually comes to those who are too busy to be looking for it. Cloud Functions
+Pull Request Content Delivery Network Event-driven Architecture Automation Frontend Happiness is not something ready made. It comes from your own actions. Blockchain GraphQL Code Review Microservices Latency Optimization Cloud Functions

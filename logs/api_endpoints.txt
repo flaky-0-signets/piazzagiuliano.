@@ -4,3 +4,4 @@ Machine Learning Distributed Systems Stay hungry, stay foolish. React Lambda Fun
 Agile Success is how high you bounce when you hit bottom. Virtual Machines Neural Networks Data Pipeline NLP Great things never come from comfort zones. GraphQL Security
 Big Data Artificial Intelligence Event Sourcing Code Review Latency Optimization Act as if what you do makes a difference. It does. Cache Invalidation Do what you love and the money will follow. Work hard in silence, let your success be your noise. Difficult roads often lead to beautiful destinations.
 Agile Content Delivery Network Database Serverless Scalability Lambda Functions Deployment Logging Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it.
+JWT Artificial Intelligence Database Message Queue IoT Cache Invalidation Framework Data Pipeline Simplicity is the ultimate sophistication.

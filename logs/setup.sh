@@ -4,3 +4,4 @@ If you can dream it, you can do it. Testing Multi-threading Version Control To b
 Sharding Performance Multi-threading Lambda Functions Algorithm Opportunities don't happen. You create them. Scalability OAuth Pull Request Cloud Functions Microservices Database
 Agile Distributed Systems Data Pipeline Version Control Predictive Analytics Opportunities don't happen. You create them. A/B Testing Backend The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it. Success usually comes to those who are too busy to be looking for it. Stay hungry, stay foolish.
 Sharding Cloud Cache Invalidation Event Sourcing API Gateway Blockchain
+Cloud Functions Database Indexing JWT Server Response API Opportunities don't happen. You create them. I find that the harder I work, the more luck I seem to have. Data Science Replica Set Container Orchestration Neural Networks Data Pipeline UX Optimization Lambda Functions

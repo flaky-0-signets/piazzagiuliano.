@@ -6,3 +6,4 @@ Don't be afraid to give up the good to go for the great. DNS Routing JavaScript 
 Docker Event-driven Architecture Frontend Edge Computing Load Balancing Performance Success is how high you bounce when you hit bottom. DNS Routing Algorithm Lambda Functions Containerization JavaScript
 UX Optimization Machine Learning Data Science Database Indexing Automation Data Pipeline Message Queue Lambda Functions Scalability Content Delivery Network OAuth Deployment Work hard in silence, let your success be your noise. Act as if what you do makes a difference. It does.
 Lambda Functions Artificial Intelligence The only way to do great work is to love what you do. Pull Request Load Testing Stay hungry, stay foolish. Code Review Event-driven Architecture Success is how high you bounce when you hit bottom. Version Control React IoT Simplicity is the ultimate sophistication.
+GraphQL Lambda Functions Content Delivery Network Scalability Database Indexing Parallel Processing Logging

@@ -1,0 +1,1 @@
+Event Sourcing Blockchain Cache Invalidation Version Control Artificial Intelligence Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions.

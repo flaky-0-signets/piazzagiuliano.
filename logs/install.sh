@@ -3,3 +3,4 @@ Machine Learning The only way to do great work is to love what you do. Data Scie
 React Version Control The only way to do great work is to love what you do. Code Review Server Response RabbitMQ Replica Set Logging Message Queue Happiness is not something ready made. It comes from your own actions. Database
 Difficult roads often lead to beautiful destinations. Opportunities don't happen. You create them. Edge Computing Kafka Pull Request Framework
 A/B Testing DevOps Artificial Intelligence Backend Kubernetes Frontend Python Monitoring CI/CD Code Review JWT Server Response
+If you can dream it, you can do it. Success usually comes to those who are too busy to be looking for it. Sharding Success doesn’t just find you. You have to go out and get it. Pull Request Don't be afraid to give up the good to go for the great. Algorithm

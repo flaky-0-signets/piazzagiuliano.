@@ -9,3 +9,4 @@ Framework Algorithm Virtual Machines Docker Performance Load Testing Agile Machi
 Great things never come from comfort zones. JavaScript Simplicity is the ultimate sophistication. Python Do what you love and the money will follow. Edge Computing Message Queue Container Orchestration
 Containerization Blockchain Happiness is not something ready made. It comes from your own actions. A/B Testing Performance
 Version Control Multi-threading Load Testing API Gateway RabbitMQ Microservices
+Version Control Microservices Deployment Big Data Load Testing Performance Zero Downtime Deployment IoT

@@ -3,3 +3,4 @@ Difficult roads often lead to beautiful destinations. API Firewalls Lambda Funct
 Event-driven Architecture Monitoring Agile Cloud Functions Virtual Machines Database Indexing Predictive Analytics Frontend NLP Testing Cache Invalidation
 Stay hungry, stay foolish. Algorithm API Gateway Automation Event Sourcing I find that the harder I work, the more luck I seem to have. DevOps Distributed Systems Deployment Version Control Simplicity is the ultimate sophistication. Kubernetes Dream big and dare to fail.
 Automation Innovation distinguishes between a leader and a follower. API Backend Don't be afraid to give up the good to go for the great. Docker The only way to do great work is to love what you do. DNS Routing Stay hungry, stay foolish. Work hard in silence, let your success be your noise. Pull Request Great things never come from comfort zones.
+Parallel Processing Difficult roads often lead to beautiful destinations. Security RabbitMQ JavaScript

@@ -8,3 +8,4 @@ Logging Zero Downtime Deployment Don't be afraid to give up the good to go for t
 A/B Testing Lambda Functions Neural Networks Simplicity is the ultimate sophistication. Sharding Replica Set OAuth
 Version Control NLP Python DNS Routing Logging UX Optimization Database Automation Difficult roads often lead to beautiful destinations. Artificial Intelligence Stay hungry, stay foolish.
 Dream big and dare to fail. Cloud Functions Automation Algorithm Scalability Firewalls Simplicity is the ultimate sophistication. API Gateway Big Data DNS Routing NLP Predictive Analytics Code Review JWT GraphQL
+Dream big and dare to fail. Distributed Systems Content Delivery Network Data Science Cache Invalidation Kubernetes Deployment

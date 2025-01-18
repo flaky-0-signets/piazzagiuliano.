@@ -7,3 +7,4 @@ Version Control I find that the harder I work, the more luck I seem to have. Gre
 Containerization Virtual Machines Predictive Analytics Neural Networks Stay hungry, stay foolish. Docker Frontend Act as if what you do makes a difference. It does.
 Framework Algorithm Virtual Machines Docker Performance Load Testing Agile Machine Learning Data Science
 Great things never come from comfort zones. JavaScript Simplicity is the ultimate sophistication. Python Do what you love and the money will follow. Edge Computing Message Queue Container Orchestration
+Containerization Blockchain Happiness is not something ready made. It comes from your own actions. A/B Testing Performance

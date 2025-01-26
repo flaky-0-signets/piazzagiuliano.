@@ -3,3 +3,4 @@ Happiness is not something ready made. It comes from your own actions. Logging O
 Containerization Big Data Backend Predictive Analytics Automation Data Science UX Optimization Neural Networks Message Queue Firewalls Event Sourcing Monitoring
 Load Testing API Success is not in what you have, but who you are. Opportunities don't happen. You create them. Simplicity is the ultimate sophistication. API Gateway
 Act as if what you do makes a difference. It does. Blockchain Testing Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. To be the best, you must be able to handle the worst. Cloud Agile React
+I find that the harder I work, the more luck I seem to have. Success doesn’t just find you. You have to go out and get it. Kafka Big Data Scalability Testing Deployment Artificial Intelligence IoT React Server Response Microservices Innovation distinguishes between a leader and a follower.

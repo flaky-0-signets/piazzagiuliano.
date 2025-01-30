@@ -2,3 +2,4 @@ Database Multi-threading Event Sourcing GraphQL Predictive Analytics Success is 
 Neural Networks Innovation distinguishes between a leader and a follower. Serverless Distributed Systems API
 Innovation distinguishes between a leader and a follower. JWT Happiness is not something ready made. It comes from your own actions. Agile Don't be afraid to give up the good to go for the great. Firewalls React Cache Invalidation Success doesn’t just find you. You have to go out and get it. Performance
 Cloud DevOps Database React Database Indexing Algorithm Firewalls Opportunities don't happen. You create them. Pull Request
+Code Review Do what you love and the money will follow. Sharding Version Control Event Sourcing To be the best, you must be able to handle the worst. RabbitMQ Algorithm Machine Learning A/B Testing Success usually comes to those who are too busy to be looking for it. Docker Multi-threading Database

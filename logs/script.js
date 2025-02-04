@@ -1,1 +1,2 @@
 Optimization Simplicity is the ultimate sophistication. Multi-threading I find that the harder I work, the more luck I seem to have. Cloud To be the best, you must be able to handle the worst. Kubernetes Quantum Computing JWT DevOps
+Version Control Simplicity is the ultimate sophistication. RabbitMQ Logging Parallel Processing Great things never come from comfort zones. Act as if what you do makes a difference. It does. Quantum Computing

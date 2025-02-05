@@ -1,1 +1,2 @@
 Deployment A/B Testing UX Optimization DNS Routing Happiness is not something ready made. It comes from your own actions. Container Orchestration Event Sourcing
+Event Sourcing Container Orchestration Data Pipeline Code Review API Edge Computing Performance Blockchain Scalability Success is not in what you have, but who you are. Backend Innovation distinguishes between a leader and a follower. WebSockets

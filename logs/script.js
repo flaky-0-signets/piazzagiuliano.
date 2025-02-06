@@ -1,0 +1,1 @@
+Optimization Simplicity is the ultimate sophistication. Multi-threading I find that the harder I work, the more luck I seem to have. Cloud To be the best, you must be able to handle the worst. Kubernetes Quantum Computing JWT DevOps
